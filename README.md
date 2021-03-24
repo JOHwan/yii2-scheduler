@@ -6,7 +6,7 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/webtoolsnz/yii2-scheduler.svg?style=flat-square)](https://scrutinizer-ci.com/g/webtoolsnz/yii2-scheduler)
 
 
-A scheduled task manager for yii2
+A scheduled task manager for yii2 - DactylVersion
 
 ## Installation
 
