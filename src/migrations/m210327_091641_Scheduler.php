@@ -3,7 +3,7 @@
 use yii\db\Expression;
 use yii\db\Migration;
 
-class m150510_090513_Scheduler extends Migration
+class m210327_091641_Scheduler extends Migration
 {
     public function safeUp()
     {
