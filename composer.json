@@ -32,8 +32,8 @@
   },
   "autoload": {
     "psr-4": {
-      "johwan\\scheduler\\": "src",
-      "johwan\\scheduler\\tests\\": "tests"
+      "webtoolsnz\\scheduler\\": "src",
+      "webtoolsnz\\scheduler\\tests\\": "tests"
     }
   }
 }
