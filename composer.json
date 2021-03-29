@@ -1,5 +1,5 @@
 {
-  "name": "JOHwan/yii2-scheduler",
+  "name": "johwan/yii2-scheduler",
   "description": "A scheduled task runner for Yii2 applications",
   "keywords": ["yii2", "cron", "scheduler", "task"],
   "type": "yii2-extension",
