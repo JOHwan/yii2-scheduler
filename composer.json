@@ -4,7 +4,7 @@
   "keywords": ["yii2", "cron", "scheduler", "task"],
   "type": "yii2-extension",
   "license": "proprietary",
-  "homepage": "https://github.com/webtoolsnz/yii2-scheduler",
+  "homepage": "https://github.com/JOHwan/yii2-scheduler",
   "authors": [
     {
       "name": "Byron Adams",
