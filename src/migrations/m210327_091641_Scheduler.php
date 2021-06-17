@@ -9,7 +9,7 @@ class m210327_091641_Scheduler extends Migration
     {
         try {
             $existed = $this->getDb()
-                            ->createCommand("SELECT count(version) as exist FROM migration where version LIKE \"m150510_090513_Scheduler\"")
+                            ->createCommand("SELECT count(version) as exist FROM migration where version LIKE 'm150510_090513_Scheduler'")
                             ->queryOne();
 	    if ($existed['exist'] <= 0) {
                 // If migration exists, do not create new tables
